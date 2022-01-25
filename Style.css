@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+}
+span
+{
+	font-size: 12px;
+	color: rgb(170, 223, 24);
+}
+canvas
+{
+	background: rgba(69, 209, 155, 0.76);
+	border-radius: 20px;
+}
